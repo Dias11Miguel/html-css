@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+body{
+    background-color: #11156b;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+
+    color: azure;
+}
+h2{
+
+    color: azure;
+}
+
+h1#princi {
+
+text-align: center;
+}
+
+.basico {
+
+    color: aquamarine;
+}
+.inter{
+
+    color: rgb(6, 179, 121);
+}
+.avançado{
+color: blueviolet;
+
+}
+
+.mark{
+
+    background-color: brown;
+}
