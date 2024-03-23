@@ -52,7 +52,7 @@ header > h1 {
 }
 
 header > p {
-    color: bisque;
+    color: #ffff;
     font-size: 1.2em;
     max-width: 600px;
     margin: auto;
@@ -180,7 +180,7 @@ aside > h3 {
     padding: 10px;
     margin: -10px -10px 1px -10px;
     border-radius: 10px 10px 0px 0px;
-    color: wheat;
+    color: #ffff;
 }
 
 aside ul{
