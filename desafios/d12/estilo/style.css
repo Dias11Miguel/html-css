@@ -24,7 +24,7 @@ margin: 0px;
 
 html,body {
 min-height: 100vh;
-background-color: gray;
+background-color: rgb(0, 0, 0);
 font-family: var(--font-family);
 
 
@@ -32,7 +32,7 @@ font-family: var(--font-family);
 
 header {
 background-color: black;
-color: azure;
+color: rgb(247, 247, 247);
 text-align: center;
 
 }
